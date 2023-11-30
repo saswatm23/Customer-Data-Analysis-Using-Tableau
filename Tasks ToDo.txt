@@ -1,0 +1,8 @@
+Tasks ToDo:
+-Revenue per State
+-Revenue based on Month of the year
+-Revenue based on Age
+-Quantity-Discount Percentage Correlation
+-Percentage of revenue per region
+-Revenue per category per Gender
+-Build the Dashboard

@@ -1,0 +1,73 @@
+The Dataset contains 36 columns:
+
+-order_id:Unique identifier for each order
+
+-order_date:Date on which item ordered 	
+
+-status:Status of order
+
+-item_id:Id of Item
+
+-sku:Name of the product
+
+-qty_ordered:Quantity ordered
+
+-price:Price of the product
+
+-value:Actual price of the product
+
+-discount_amount:Discount Provided	
+
+-total:Total price after the discount
+
+-category:Category under which the product fall	
+
+-payment_method:Method of payment	
+
+-bi_st:Gross,Net,Valid	
+
+-cust_id:Id of the customer	
+
+-year:Year in which product bought	
+
+-month:Month in which product bought
+
+-ref_num:Reference number 	
+
+-Name Prefix:Prefix of customer's name	
+
+-First Name:First name of the customer	
+
+-Middle Initial:Middle name initials if any	
+
+-Last Name:Last name of the customer
+	
+-Gender:Customer gender
+
+-age:Customer's age
+
+-full_name:Fullname of the customer	
+
+-E Mail:Email id of customer	
+
+-Customer Since:Date from which he/she is buying	
+
+-SSN:Socal Security Number	
+
+-Phone No. :Phone number	
+
+-Place Name:Name of the place	
+
+-County:Country 	
+
+-City:City 	
+
+-State:State
+
+-Zip:ZipCode	
+
+-Region:Region	
+
+-User Name:Username	
+
+-Discount_Percent:Discount provided in percentage
